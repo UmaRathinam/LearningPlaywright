@@ -1,0 +1,1 @@
+console.log("All the best for your playwright learning journey");
